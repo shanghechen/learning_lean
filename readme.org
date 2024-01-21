@@ -1,0 +1,36 @@
+#+OPTIONS: ^:nil
+#+OPTIONS: _:nil
+#+OPTIONS: H:9
+
+Some plans for learning lean4
+
+* Theorem Proving in Lean (TPIL)
+  - [X] 1. Introduction
+  - [X] 2. Dependent Type Theory
+  - [X] 3. Propositions and Proofs
+  - [X] 4. Quantifiers and Equality
+  - [ ] 5. Tactics
+  - [ ] 6. Interacting with Lean
+  - [ ] 7. Inductive Types
+  - [ ] 8. Induction and Recursion
+  - [ ] 9. Structures and Records
+  - [ ] 10. Type Classes
+  - [ ] 11. The Conversion Tactic Mode
+  - [ ] 12. Axioms and Computation
+* Mathematics in Lean (MIL)
+TODO no crete plan yet
+ref: [[https://github.com/leanprover-community/mathematics_in_lean][Mathematics in Lean]]
+* Category Theory in Lean
+- [ ] Dean's Category and (Strict) Two Cateogry
+- [ ] Yoneda Lemma
+- [ ] TODO some other contents in Basic Category Theory
+- [ ] the universal properties in category theory
+* Learning MATHLIB
+- [ ] algebra
+- [ ] cateogry theory
+- [ ] field theory
+- [ ] logic
+* Some concrete problems wanna prove in lean
+- [ ] define integer using quotient, rather than [[https://github.com/leanprover/std4/blob/main/Std/Data/Int/Basic.lean][Std/Data/Int/Basic.lean]]
+- [ ] some other quotient related things(TODO details)
+- [ ] rudin's infnity in PMA
