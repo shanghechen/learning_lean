@@ -4,6 +4,8 @@
 
 Some plans for learning lean4
 
+Now record at https://onriv.notion.site/Learning-Lean-f58b6901fd924510b83b9bb479561864
+
 * Theorem Proving in Lean (TPIL)
   - [X] 1. Introduction
   - [X] 2. Dependent Type Theory
